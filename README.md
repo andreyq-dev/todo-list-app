@@ -2,7 +2,9 @@
 
 Frontend application demonstrating modular JavaScript architecture and modern build tools.
 
-**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Full-Stack Development & AI Workflows
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software & AI Engineer
+
+> Earlier work (2025, Lyfter full-stack program). For my current work, see [everna-platform](https://github.com/andreyques41/everna-platform) and my [portfolio](https://andreyques41.github.io).
 
 ---
 
@@ -57,4 +59,4 @@ npm run dev
 
 ---
 
-**GitHub**: [andreyques41/todo-list-app](https://github.com/andreyques41/todo-list-app)
+**GitHub**: [andreyq-dev/todo-list-app](https://github.com/andreyq-dev/todo-list-app)
